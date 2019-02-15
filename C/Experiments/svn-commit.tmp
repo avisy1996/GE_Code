@@ -1,0 +1,16 @@
+
+--This line, and those below, will be ignored--
+
+A    Pointers
+A    Pointers/\
+AM   Pointers/a.out
+A    Pointers/add_funct_ptr.c
+A    Pointers/calc.c
+A    Pointers/const_int.c
+A    Pointers/exp1.c
+A    Pointers/exp2.c
+A    Pointers/exp3.c
+A    Pointers/exp4.c
+A    Pointers/exp5.c
+A    Pointers/exp6.c
+A    Pointers/func_pointer.c

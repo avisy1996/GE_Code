@@ -1,0 +1,29 @@
+
+;; Function main (main, funcdef_no=0, decl_uid=1824, cgraph_uid=0)
+
+main ()
+{
+  int b;
+  int a;
+  int D.1831;
+  int a.1;
+  int a.0;
+  int _8;
+
+  <bb 2>:
+  a_1 = 10;
+  a.0_2 = a_1;
+  a_3 = a.0_2 + 1;
+  a_4 = a.0_2;
+  a.1_5 = a_4;
+  a_6 = a.1_5 + 1;
+  b_7 = a.1_5;
+  printf ("%d %d\n", a_6, b_7);
+  _8 = 0;
+
+<L0>:
+  return _8;
+
+}
+
+

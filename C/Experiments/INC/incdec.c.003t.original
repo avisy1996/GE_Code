@@ -1,0 +1,17 @@
+
+;; Function main (null)
+;; enabled by -tree-original
+
+
+{
+  int a = 10;
+  int b;
+
+    int a = 10;
+    int b;
+  a = a++ ;
+  b = a++ ;
+  printf ((const char * restrict) "%d %d\n", a, b);
+  return 0;
+}
+
